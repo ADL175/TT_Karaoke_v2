@@ -1,6 +1,8 @@
 package com.teamtreehouse;
 
 import com.teamtreehouse.model.SongBook;
+import com.teamtreehouse.model.Song;
+import com.teamtreehouse.KaraokeMachine;
 
 public class Karaoke {
     public static void main(String[] args){
