@@ -126,7 +126,7 @@ public class KaraokeMachine {
                     "Use choose from menu to add to your queue");
         }
         else {
-            System.out.printf("%n%n%n Open %s to hear %s by %ads %n%n%n",
+            System.out.printf("%n%n%n Open %s to hear %s by %s %n%n%n",
                     song.getVideoUrl(),
                     song.getTitle(),
                     song.getArtist()
