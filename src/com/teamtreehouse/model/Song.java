@@ -15,11 +15,11 @@ public class Song {
         return mTitle;
     }
 
-    public String getmArtist() {
+    public String getArtist() {
         return mArtist;
     }
 
-    public String getmVideoUrl() {
+    public String getVideoUrl() {
         return mVideoUrl;
     }
 
